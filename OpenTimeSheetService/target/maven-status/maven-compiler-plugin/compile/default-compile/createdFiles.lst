@@ -1,0 +1,4 @@
+org/freedy/opentimesheet/Application.class
+org/freeedy/opentimesheet/persistence/TimeSheetRepository.class
+org/freedy/opentimesheet/controller/TimeSheetController.class
+org/freedy/opentimesheet/model/Colaborador.class
